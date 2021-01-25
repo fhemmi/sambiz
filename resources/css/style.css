@@ -713,7 +713,7 @@ footer {
 
 footer p {
     color: #ddd ;
-    text-align: center;
+    /* text-align: center; */
     margin-top: 20px;
 }
 
