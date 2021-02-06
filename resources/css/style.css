@@ -572,8 +572,8 @@ cite img {
     border: 0;
 }
 .plan-box img {
-    width: auto;
-    height: 213px;
+    width: 100%;
+    /* height: 213px; */
 }
 
 
